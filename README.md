@@ -12,6 +12,6 @@ HW6: Both scripts are used to analyze the results obtained from running BLAST
 
 HW7: Uses bedtools to analyze bed files containing alignment results and creates a tab-delineated file containing the number of gene reads
 
-HW8: Finds open reading frames (ORFs) in a given DNA sequence (FASTA format)
+HW8: Finds open reading frames (ORFs) in a given DNA sequence (FASTA format). Requires a codon dictonary (codondictionary)
 
 HW9: wordcount code finds all 7-mers in given sequences; greedy code implements a greedy algorithm to find a motif of length 7 from a given sequence (Not FASTA format, only sequence in txt file)
